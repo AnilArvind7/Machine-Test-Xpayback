@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MachineTest</string>
+
+    <string name="title_users">Users</string>
+    <string name="title_personal_details">Personal Details</string>
+    <string name="title_address_details">Address Details</string>
+    <string name="title_company_details">Company Details</string>
+
+    <string name="user_detail_email">Email</string>
+    <string name="user_detail_phone">Phone</string>
+    <string name="user_detail_gender">Gender</string>
+    <string name="user_detail_age">Age</string>
+    <string name="user_detail_dob">Dob</string>
+    <string name="user_detail_blood_group">Blood Group</string>
+    <string name="user_detail_address">Address</string>
+    <string name="user_detail_city">City</string>
+    <string name="user_detail_state">State</string>
+    <string name="user_detail_postal_code">Postal Code</string>
+    <string name="user_detail_country">Country</string>
+    <string name="user_detail_company">Company</string>
+    <string name="user_detail_department">Department</string>
+    <string name="user_detail_designation">Designation</string>
+</resources>
